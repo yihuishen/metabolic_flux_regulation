@@ -1,9 +1,12 @@
+## identify statistically significant metabolic regulator and evaluate metabolic leverage
+
 library(dplyr)
 library(stringr)
 library(egg)
 library(rmatio)
 library(tidyr)
 
+### 
 options(stringsAsFactors = F)
 rm(list=ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -252,5 +255,8 @@ ggplot(regAnal.df, aes(x = rho_e, y = rho_m)) +
   theme_classic() + theme(panel.background = element_rect(fill = NA))
 dev.off()
 
-save.image('report_SIMMER.RData')
+if (!file.exists('report_SIMMER.RData')) {
+  save.image('report_SIMMER.RData')
+}
+
 
