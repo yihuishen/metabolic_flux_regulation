@@ -34,15 +34,15 @@ Coarse-grained analysis of proteome allocation in _S. cerevisiae_ and _I.orienta
     protein abundance of _S. cerevisiae_ and _I.orientalis_<br>
         batch culture and nutrient-limited chemostats<br>
         aerobic (+O2), anaerobic (-O2), and with antimycin treatment (+antimycin)<br>
-    functional assignment of the proteome
-    comparison to reference proteomics from literature
+    functional assignment of the proteome<br>
+    comparison to reference proteomics from literature<br>
 
 ### 5) protein_resource_allocation_mouse
 Coarse-grained analysis of proteome allocation in mouse cells and tissues, and proteome efficiency of ATP generation pathways of all systems described in the manuscript
 
 **Dataset included**<br>
-    protein abundance of naive and activated mouse CD8+ T cells
-    protein abundance of mouse tissues and tumors
-        healthy pancreas, GEMM PDAC, flank PDAC
-        healthy spleen, leukemic spleen
-    functional assignment of mouse proteome
+    protein abundance of naive and activated mouse CD8+ T cells<br>
+    protein abundance of mouse tissues and tumors<br>
+        healthy pancreas, GEMM PDAC, flank PDAC<br>
+        healthy spleen, leukemic spleen<br>
+    functional assignment of mouse proteome<br>
