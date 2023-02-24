@@ -40,8 +40,7 @@ Coarse-grained analysis of proteome allocation in _S. cerevisiae_ and _I.orienta
 ### 5) protein_resource_allocation_mouse
 Coarse-grained analysis of proteome allocation in mouse cells and tissues, and proteome efficiency of ATP generation pathways of all systems described in the manuscript
 
-**Dataset included**
-
+**Dataset included**<br>
     protein abundance of naive and activated mouse CD8+ T cells
     protein abundance of mouse tissues and tumors
         healthy pancreas, GEMM PDAC, flank PDAC
