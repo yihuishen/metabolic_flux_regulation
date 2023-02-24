@@ -7,7 +7,7 @@ and part of the preprint (https://doi.org/10.1101/2022.08.10.503479)
 
 ## file descriptions
 ### Isor_SIMMER
-Systematic Identification of Meaningful Metabolic Enzyme Regulation in _Issatchenkia orientalis_
+Systematic Identification of Meaningful Metabolic Enzyme Regulation in _Issatchenkia orientalis_ \n
 integration of fluxomics, metabolomics, and proteomics via Michaelis-Menten kinetics
 see also Hackett, S. R. et al. Systems-level analysis of mechanisms regulating yeast metabolic flux. Science 354, aaf2786–aaf2786 (2016).
 
