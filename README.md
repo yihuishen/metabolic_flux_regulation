@@ -16,9 +16,9 @@ see also Hackett, S. R. et al. Systems-level analysis of mechanisms regulating y
 Explaining flux difference between yeasts (_S. cerevisiae_ and _I. orientalis_) or flux change across nutrient-limited chemostat conditions
 
 **Dataset included**<br>
-*** fluxomics (from 13C MFA), LC-MS metabolomics, quantitative proteomics<br>
-*****  _S. cerevisiae_: 12 nutrient-limited chemostats + 1 batch culture<br>
-*****  _I. orientalis_: 15 nutrient-limited chemostats + 1 batch culture<br>
+*** fluxomics (from 13C MFA), LC-MS metabolomics, quantitative proteomics
+*****  _S. cerevisiae_: 12 nutrient-limited chemostats + 1 batch culture
+*****  _I. orientalis_: 15 nutrient-limited chemostats + 1 batch culture
     
 ### 3) mmTcell_flux_regulation
 Explaining flux change upon T cell activation
