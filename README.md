@@ -1,6 +1,6 @@
 # metabolic flux regulation and proteome resource allocation
 This repository provides Supplementary files and R scripts regarding multi-omics data integration that are part of the manuscripts:
-# Proteome capacity constraints favor respiratory ATP generation
+**Proteome capacity constraints favor respiratory ATP generation**
 
 Yihui Shen, Hoang V. Dinh, Edward Cruz, et al. submitted
 
