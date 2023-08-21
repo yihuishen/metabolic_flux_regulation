@@ -22,7 +22,7 @@ anno.subsystem.SC <- read.delim('../../abs_proteomics/subsystem_annotation_SC.ts
 tmp <- read.xlsx('../../models/yeastGEM.xlsx') %>%
   rename(EC = `EC-NUMBER`, geneID = GENE.ASSOCIATION, subsystem = SUBSYSTEM) %>%
   select(geneID, subsystem, EC)
-gpr.SC<- tibble(geneID = str_extract_all(tmp$gene, 'Y[0-9A-Z]+'),EC= tmp$EC, subsystem = strsplit(tmp$subsystem, split = ';')) %>%
+gpr.SC<- tibble(geneID = str_extract_all(tmp$gene, '[A-Z][0-9A-Z]+'),EC= tmp$EC, subsystem = strsplit(tmp$subsystem, split = ';')) %>%
   unnest(cols = geneID) %>%
   unnest(cols = subsystem) %>%
   left_join(anno.subsystem.SC) %>%
